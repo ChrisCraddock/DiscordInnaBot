@@ -36,7 +36,7 @@ async def Commands(ctx):
 
 @bot.command(pass_context=True)
 async def Invite(ctx):
-    await bot.say("https://discord.gg/9TmrFVk")
+    await bot.say("<Insert your channel link here>")
 
 @bot.command(pass_context=True)
 async def Summon(ctx):
